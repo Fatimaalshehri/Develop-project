@@ -95,7 +95,13 @@ box-shadow: 3px 6px 19px 6px grey;
     padding: 10px 15px;
 }
 
+nav a {
+    text-decoration: none;
+    color: #9375ff;
+}
+
 /* جزئية صوره الحاسوب */
+
 
 header{ /* خاص بالخلفية */
     background:linear-gradient(180deg ,#8e86a9, #9375ff);
@@ -119,12 +125,9 @@ header h1{
    
 }
 
-.baner-img{
-    width: 900px;
-    height: 300px;
-    display: block;
-    margin: 0 auto;
-    background-position: center; 
+
+header img{
+    width: 50%;
 
 }
 
